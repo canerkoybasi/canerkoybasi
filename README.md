@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - #### 😀 I'm @canerkoybasi
-- #### 📫 contact me: caner@canerkoybasi.com
-- #### 🔗 website: https://canerkoybasi.com
+- #### 📫 Contact me: caner@canerkoybasi.com
+- #### 🔗 Website: https://canerkoybasi.com
 - #### 👀 I’m interested in
   - Laravel
   - React.js
