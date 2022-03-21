@@ -1,4 +1,5 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on Laravel, Next JS, React.js Tailwind, Firebase
-- 🌱 I’m currently learning Express JS
+😀 I'm @canerkoybasi
+👀 I’m interested in Laravel, Next JS, React.js Tailwind
+� I’m currently learning Express JS
+📫 How to reach me caner@canerkoybasi.com
